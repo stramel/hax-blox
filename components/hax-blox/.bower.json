@@ -1,0 +1,26 @@
+{
+  "name": "hax-blox",
+  "description": "A LRN element",
+  "main": "hax-blox.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.10.1",
+    "juicy-html": "Juicy/juicy-html#^2.0.1"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/LRNWebComponents/hax-blox",
+  "_release": "0c6fecf005",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "0c6fecf00511686ce9c4753ba95e26736a1e5513"
+  },
+  "_source": "https://github.com/LRNWebComponents/hax-blox.git",
+  "_target": "master",
+  "_originalSource": "LRNWebComponents/hax-blox",
+  "_direct": true
+}
